@@ -11,6 +11,28 @@ A Data Analysis dashboard built using Python and Streamlit that performs CRUD op
 - Product-wise sales analysis
 - SQLite database integration
 
+## 🖼️ Application Screenshots
+
+### 📊 Dashboard
+![Dashboard](images/DASHBOARD.png)
+
+### 📈 Sales Analytics Chart
+![Analytics Chart](images/DASHBOARDCHART1.png)
+
+### ➕ Add Sales Record
+![Add Record](images/ADD.png)
+
+### ✏️ Update Sales Record
+![Update Record](images/UPDATE.png)
+
+### 🗑️ Delete Sales Record
+![Delete Record](images/DELETE_RECORD.png)
+
+### 🔐 Login / Signup
+![Login Signup](images/SIGNUP_LOGIN.png)
+
+
+
 ## 🛠️ Technologies Used
 - Python
 - Streamlit
